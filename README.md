@@ -1,5 +1,10 @@
-### Hi, this is csuhan.
+### Hi, this is csuhan
+Master student of Wuhan University, major in remote sensing, be happy with coding.
 
-[![csuhan's github stats](https://github-readme-stats.vercel.app/api?username=csuhan&show_icons=true&hide_title)](https://github-readme-stats.vercel.app/api?username=csuhan&show_icons=true&hide_title)
+Languages: Python, PHP, C++, Javascript, Go
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csuhan&layout=compact&hide=jupyterNotebook)](https://github-readme-stats.vercel.app/api/top-langs/?username=csuhan&layout=compact&hide=jupyterNotebook)
+Website: [blog.csuhan.tk](https://blog.csuhan.tk)
+
+Contact Me: hanjiaming@whu.edu.cn
+
+[![csuhan's github stats](https://github-readme-stats.vercel.app/api?username=csuhan&show_icons=true&hide_title=true)](https://github-readme-stats.vercel.app/api?username=csuhan&show_icons=true&hide_title=true)
