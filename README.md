@@ -3,7 +3,6 @@
 - Website: <a href="https://csuhan.com">csuhan.com</a></li>
 - Email: <a href="mailto:hanjiaming@whu.edu.cn">hanjiaming@whu.edu.cn</a></li>
 
-**I am looking for a PhD offer | 我正在找PhD岗位**
 
 #### Skills and Tools: 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/> </a> 
