@@ -1,5 +1,5 @@
 ### Hi, this is csuhan
-- Master student of Wuhan University</li>
+- Research Intern at Shanghai AI Lab</li>
 - Website: <a href="https://csuhan.com">csuhan.com</a></li>
 - Email: <a href="mailto:hanjiaming@whu.edu.cn">hanjiaming@whu.edu.cn</a></li>
 
