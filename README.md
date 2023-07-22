@@ -1,7 +1,8 @@
-### Hi, this is csuhan
-- Research Intern at Shanghai AI Lab</li>
-- Website: <a href="https://csuhan.com">csuhan.com</a></li>
-- Email: <a href="mailto:hanjiaming@whu.edu.cn">hanjiaming@whu.edu.cn</a></li>
+### Hi, this is csuhan🤗
+- PhD Student at CUHK
+- Research Intern at Shanghai AI Lab
+- Website: <a href="https://csuhan.com">csuhan.com</a>
+- Email: <a href="mailto:hanjiaming@whu.edu.cn">hanjiaming@whu.edu.cn</a>
 
 
 #### Skills and Tools: 
