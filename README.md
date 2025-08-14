@@ -1,6 +1,6 @@
 ### Hi, this is csuhan🤗
 - PhD Student at CUHK
-- Research Intern at Shanghai AI Lab
+- Research Intern at ByteDance Seed
 - Website: <a href="https://csuhan.com">csuhan.com</a>
 - Email: hanjiaming@link.cuhk.edu.hk
 
